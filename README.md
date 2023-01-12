@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edgar</h1>
+<h1 align="center">Hi 👋, I'm Yvan</h1>
 <h3 align="center">A JS/TS-based fullstack software developer</h3>
 
 
@@ -8,8 +8,8 @@
 <img align='right' src="./Assets/profile.png" width="230">
 
 
-[![Linkedin: edgargagocarrillo](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakgonss/)](https://www.linkedin.com/in/yvan-salcedo/)
-[![GitHub gagocarrilloedgar](https://img.shields.io/github/followers/drakgons?label=follow&style=social)](https://github.com/drakgons)
+[![Linkedin: yvan-salcedo](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakgonss/)](https://www.linkedin.com/in/yvan-salcedo/)
+[![GitHub drakgons](https://img.shields.io/github/followers/drakgons?label=follow&style=social)](https://github.com/drakgons)
 
 
 
@@ -22,6 +22,9 @@
 
 <br/>
 
+<img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
+
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="color:white"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -36,6 +39,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagocarrilloedgar&show_icons=true&locale=en&theme=tokyonight" alt="gagocarrilloedgar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagocarrilloedgar&theme=tokyonight" alt="gagocarrilloedgar" /></p>
+
+
