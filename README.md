@@ -8,7 +8,7 @@
 <img align='right' src="./Assets/profile.png" width="230">
 
 
-[![Linkedin: yvan-salcedo](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakgonss/)](https://www.linkedin.com/in/yvan-salcedo/)
+[![Linkedin: yvan-salcedo](https://img.shields.io/badge/-yvan-salcedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drakgonss/)](https://www.linkedin.com/in/yvan-salcedo/)
 [![GitHub drakgons](https://img.shields.io/github/followers/drakgons?label=follow&style=social)](https://github.com/drakgons)
 
 
